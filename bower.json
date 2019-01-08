@@ -1,0 +1,26 @@
+{
+  "name": "movieweb",
+  "description": "no",
+  "main": "app.js",
+  "authors": [
+    "n"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "d"
+  ],
+  "homepage": "https://github.com/Patricklea/node-mongodb_website_strategyy",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
